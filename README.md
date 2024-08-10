@@ -29,9 +29,8 @@ Naszym głównym zadaniem jest:
 - Wpływ stosowanych leków hipotensyjnych na stopień przewodnienia u pacjentów dializowanych
 - Ocena stopnia sarkopenii oraz rokowania pacjentów z chorobami nowotworowymi przy wykorzystaniu metod uczenia maszynowego
 - Przewidywanie rokowania w AKI w zależności od dotychczas prowadzonej farmakoterapii
-- Przewidywanie rokowania w zależności od stanu odżywienia na podstawie danych obrazowych
 - Ocena stanu odżywienia, jakości życia pacjentów hemodializowanych
-- Ocena nowych wskaźników stanu zapalnego u pacjentów w przewidywaniu rokowania u pacjentów z sarkopenią
+- Ocena nowych wskaźników stanu zapalnego w przewidywaniu rokowania u pacjentów onkologicznych z sarkopenią
 						
 ## Nasza bibliografia 2023-obecnie
 
