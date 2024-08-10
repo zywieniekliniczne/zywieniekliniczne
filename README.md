@@ -48,7 +48,7 @@ Naszym głównym zadaniem jest:
 
 ## Opiekun i Skład Zarządu
 
-[Informacja na temat prowadzącego opiekuna i członków zarządu](
+[Informacja na temat prowadzącego opiekuna i członków zarządu](https://github.com/zywieniekliniczne/profile.git)
 
 ## Kontakt
 
