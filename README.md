@@ -51,7 +51,7 @@ Naszym głównym zadaniem jest:
 
 [Informacja na temat prowadzącego opiekuna i członków zarządu](
 
-## Kontact
+## Kontakt
 
 Jeśli masz jakieś pytania lub sugestie, skontaktuj się z nami pod adresem [zywieniekliniczne@cm.uz.zgora.pl](mailto:zywieniekliniczne@cm.uz.zgora.pl).
 
