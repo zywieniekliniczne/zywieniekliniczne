@@ -47,11 +47,15 @@ Naszym głównym zadaniem jest:
 - Zachęcamy do dołączenia do naszej grupy na Facebooku „SKN Żywienia Klinicznego Collegium Medicum UZ” [Strona na fb](https://www.facebook.com/groups/837936527182509)
 - W celu dołączenia do SKN Żywienia Klinicznego UZ należy wypełnić formularz deklaracji członkowskiej, który znajdziesz tutaj [LINK DO FORMULARZA](https://docs.google.com/forms/d/e/1FAIpQLSfrKv2NU0ZdzR0hr2DfL3Y_6P_bwsd164nLgf_dzrzq97pbVQ/viewform?usp=sf_link)
 
-## Contact
+## Opiekun i Skład Zarządu
+
+[Informacja na temat prowadzącego opiekuna i członków zarządu](
+
+## Kontact
 
 Jeśli masz jakieś pytania lub sugestie, skontaktuj się z nami pod adresem [zywieniekliniczne@cm.uz.zgora.pl](mailto:zywieniekliniczne@cm.uz.zgora.pl).
 
-## Links
+## Linki
 
 <p align="left">
 <a href="https://www.researchgate.net/lab/Students-Scientific-Section-of-Clinical-Nutrition-Jan-Nicikowski" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/5/5e/ResearchGate_icon_SVG.svg" alt="zywieniekliniczne" height="30" width="40" /></a>
